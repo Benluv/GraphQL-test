@@ -1,15 +1,13 @@
 # apollo-tutorial-kit
 
-Starting point for the Apollo GraphQL Server tutorial.
+Followed along a tutorial from medium. Press [here](https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035) 
+to check it out.
 
-Follow along with the tutorial in the blog post: [How to build a GraphQL server](https://medium.com/apollo-stack/tutorial-building-a-graphql-server-cddaa023c035#.wy5h1htxs). If you want to skip ahead to the solution, check out the [server-tutorial-solution](https://github.com/apollographql/apollo-tutorial-kit/tree/server-tutorial-solution) branch of this repo.
-
-Up-to-date documentation and explanations can be found in the [Apollo Server docs](https://www.apollographql.com/docs/apollo-server/)
 
 ## Getting started
 
 ```bash
-git clone https://github.com/apollostack/apollo-starter-kit
+git clone https://github.com/Benluv/GraphQL-test.git
 cd apollo-starter-kit
 npm install
 npm start
@@ -34,6 +32,8 @@ and hit the play button (cmd-return), then you should get this on the right side
   }
 }
 ```
+
+What follows are multiple examples that can be applied to the code in this repo:
 
 ```json
 {
