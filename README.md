@@ -35,7 +35,7 @@ and hit the play button (cmd-return), then you should get this on the right side
 
 What follows are multiple examples that can be applied to the code in this repo:
 
-```json
+```
 {
   author(firstName: "Edmond", lastName: "Jones") {
     firstName
@@ -44,7 +44,7 @@ What follows are multiple examples that can be applied to the code in this repo:
 }
 ```
 
-```json
+```
 {
   author(firstName: "Edmond", lastName: "Jones") {
     firstName
@@ -57,7 +57,7 @@ What follows are multiple examples that can be applied to the code in this repo:
 }
 ```
 
-```json
+```
 query FortuneCookieQuery {
   getFortuneCookie
 }
